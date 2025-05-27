@@ -14,9 +14,6 @@ Aplikasi berbasis C++ untuk mencatat, menyimpan, mencari, dan mengurutkan data p
 - [Cara Menjalankan](#cara-menjalankan)
 - [Penjelasan Algoritma](#penjelasan-algoritma)
 - [Contoh Input & Output](#contoh-input--output)
-- [Kekurangan dan Pengembangan](#kekurangan-dan-pengembangan)
-- [Kontributor](#kontributor)
-- [Lisensi](#lisensi)
 
 ---
 
@@ -143,33 +140,4 @@ Lagu setelah diurutkan:
 ...
 ```
 
----
 
-## ⚠️ Kekurangan dan Pengembangan
-
-### 🔴 Kekurangan:
-- Satu artis dengan banyak lagu disimpan sebagai entri terpisah
-- Tidak ada fitur **hapus** atau **edit** data
-- Durasi dan tahun masih dalam bentuk string (belum divalidasi sebagai angka)
-- Belum ada tampilan yang ramah pengguna (GUI)
-
-### 🟢 Rencana Pengembangan:
-- Gunakan array atau vector of Lagu dalam `struct Penyanyi`
-- Tambahkan fitur **hapus/edit data**
-- Tambahkan validasi angka untuk durasi dan tahun
-- Buat antarmuka grafis menggunakan Qt / SFML / Web (jika berbasis GUI)
-
----
-
-## 👤 Kontributor
-
-| Nama            | Peran             |
-|------------------|--------------------|
-| [Nama Kamu]     | Developer / Mahasiswa |
-| [Kelas / Prodi] | [Contoh: TI - Semester 2] |
-
----
-
-## 🪪 Lisensi
-
-Proyek ini dibuat untuk tujuan pembelajaran dan tugas akademik. Bebas digunakan dan dimodifikasi untuk kepentingan edukatif, non-komersial.
