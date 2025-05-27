@@ -50,9 +50,9 @@ struct Penyanyi {
 | Komponen            | Deskripsi                                  |
 |---------------------|---------------------------------------------|
 | Bahasa Pemrograman  | C++                                         |
-| Paradigma           | Procedural dengan `struct` dan fungsi       |
+| Metode Pemrograman  | Procedural dengan `struct` dan fungsi       |
 | Kompilator          | g++, MinGW, Dev-C++, Code::Blocks, dll      |
-| Platform            | Windows / Linux                             |
+| Platform            | Windows                                     |
 | Penyimpanan Data    | File teks (`file.txt`, `count.txt`)         |
 | Input/Output        | Console (CLI)                               |
 
